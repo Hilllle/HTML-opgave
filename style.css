@@ -1,0 +1,17 @@
+body{
+    width: 700px;
+    padding: 2%;
+}
+
+
+button:hover{
+    background-color: rgb(183, 218, 218);
+}
+
+div{
+    margin-top: 5px;
+}
+
+h5{
+    margin-top: 10px;
+}
